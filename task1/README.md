@@ -1,4 +1,4 @@
-#USAGE:
+# USAGE:
 
 ./cleanup.sh 
 
