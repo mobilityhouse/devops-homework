@@ -1,4 +1,4 @@
-#ABOUT: 
+# ABOUT: 
 
 The docker image is based on alpine base image. Nginx has been compiled from source and the static html page has been served by nginx with root directory as /opt/html. 
 The motivation to use alpine is to create a minimalist docker image which is small in size and is easy to ship. 
